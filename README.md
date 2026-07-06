@@ -8,7 +8,6 @@ provide answers, and interact in a structured community environment.
 📝 Create, edit, and delete posts (questions)
 💬 Answer and comment on discussions
 🔍 Search functionality for posts
-👍 Upvote / downvote system (optional if implemented)
 📊 User profiles with activity tracking
 🔐 Protected routes and role-based access
 ⚡ RESTful API backend
